@@ -1,8 +1,8 @@
 package ru.t1.java.demo.util;
 
 import org.springframework.stereotype.Component;
-import ru.t1.java.demo.dto.ClientDto;
 import ru.t1.java.demo.model.Client;
+import ru.t1.java.demo.model.dto.ClientDto;
 
 @Component
 public class ClientMapper {
@@ -20,7 +20,6 @@ public class ClientMapper {
 
     public static ClientDto toDto(Client entity) {
         return ClientDto.builder()
-                .id(entity.getId())
                 .firstName(entity.getFirstName())
                 .lastName(entity.getLastName())
                 .middleName(entity.getMiddleName())

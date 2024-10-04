@@ -1,10 +1,9 @@
 package ru.t1.java.demo.service;
 
-import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import ru.t1.java.demo.dto.ClientDto;
 import ru.t1.java.demo.model.Client;
+import ru.t1.java.demo.model.dto.ClientDto;
 import ru.t1.java.demo.repository.ClientRepository;
 import ru.t1.java.demo.util.ClientMapper;
 
@@ -20,11 +19,6 @@ public class LegacyClientService {
     public LegacyClientService(ClientRepository repository) {
         this.repository = repository;
         this.cache = new HashMap<>();
-    }
-
-    @PostConstruct
-    void init() {
-        getClient(1L);
     }
 
     public ClientDto getClient(Long id) {

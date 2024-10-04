@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 73.36
+  },
+  {
+    "id": 2,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 58.24
+  },
+  {
+    "id": 3,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 84.35
+  },
+  {
+    "id": 4,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 73.96
+  },
+  {
+    "id": 5,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 41.0
+  },
+  {
+    "id": 6,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 28.63
+  },
+  {
+    "id": 7,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 54.41
+  },
+  {
+    "id": 8,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 99.11
+  },
+  {
+    "id": 9,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 14.29
+  },
+  {
+    "id": 10,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 21.48
+  },
+  {
+    "id": 11,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 12.14
+  },
+  {
+    "id": 12,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 14.0
+  },
+  {
+    "id": 13,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 50.82
+  },
+  {
+    "id": 14,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 88.34
+  },
+  {
+    "id": 15,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 72.97
+  },
+  {
+    "id": 16,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 3.31
+  },
+  {
+    "id": 17,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 18.83
+  },
+  {
+    "id": 18,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 24.66
+  },
+  {
+    "id": 19,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 1.09
+  },
+  {
+    "id": 20,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 61.34
+  },
+  {
+    "id": 21,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 3.77
+  },
+  {
+    "id": 22,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 27.37
+  },
+  {
+    "id": 23,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 8.02
+  },
+  {
+    "id": 24,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 20.01
+  },
+  {
+    "id": 25,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 38.74
+  },
+  {
+    "id": 26,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 59.03
+  },
+  {
+    "id": 27,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 18.7
+  },
+  {
+    "id": 28,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 17.19
+  },
+  {
+    "id": 29,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 78.2
+  },
+  {
+    "id": 30,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 9.42
+  },
+  {
+    "id": 31,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 70.66
+  },
+  {
+    "id": 32,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 90.03
+  },
+  {
+    "id": 33,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 6.59
+  },
+  {
+    "id": 34,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 16.45
+  },
+  {
+    "id": 35,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 97.47
+  },
+  {
+    "id": 36,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 69.9
+  },
+  {
+    "id": 37,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 2.93
+  },
+  {
+    "id": 38,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 52.11
+  },
+  {
+    "id": 39,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 19.11
+  },
+  {
+    "id": 40,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 24.55
+  },
+  {
+    "id": 41,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 83.99
+  },
+  {
+    "id": 42,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 55.89
+  },
+  {
+    "id": 43,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 8.84
+  },
+  {
+    "id": 44,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 74.23
+  },
+  {
+    "id": 45,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 13.86
+  },
+  {
+    "id": 46,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 50.83
+  },
+  {
+    "id": 47,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 53.09
+  },
+  {
+    "id": 48,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 14.79
+  },
+  {
+    "id": 49,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 53.43
+  },
+  {
+    "id": 50,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 4.16
+  },
+  {
+    "id": 51,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 30.41
+  },
+  {
+    "id": 52,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 4.45
+  },
+  {
+    "id": 53,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 59.0
+  },
+  {
+    "id": 54,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 97.41
+  },
+  {
+    "id": 55,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 74.69
+  },
+  {
+    "id": 56,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 11.46
+  },
+  {
+    "id": 57,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 98.57
+  },
+  {
+    "id": 58,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 31.54
+  },
+  {
+    "id": 59,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 87.78
+  },
+  {
+    "id": 60,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 74.94
+  },
+  {
+    "id": 61,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 4.52
+  },
+  {
+    "id": 62,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 29.15
+  },
+  {
+    "id": 63,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 98.02
+  },
+  {
+    "id": 64,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 64.91
+  },
+  {
+    "id": 65,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 70.66
+  },
+  {
+    "id": 66,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 87.07
+  },
+  {
+    "id": 67,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 37.1
+  },
+  {
+    "id": 68,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 61.42
+  },
+  {
+    "id": 69,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 57.92
+  },
+  {
+    "id": 70,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 39.4
+  },
+  {
+    "id": 71,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 51.7
+  },
+  {
+    "id": 72,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 61.19
+  },
+  {
+    "id": 73,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 91.33
+  },
+  {
+    "id": 74,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 40.89
+  },
+  {
+    "id": 75,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 8.51
+  },
+  {
+    "id": 76,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 90.57
+  },
+  {
+    "id": 77,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 57.31
+  },
+  {
+    "id": 78,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 60.79
+  },
+  {
+    "id": 79,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 59.87
+  },
+  {
+    "id": 80,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 60.88
+  },
+  {
+    "id": 81,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 57.33
+  },
+  {
+    "id": 82,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 7.75
+  },
+  {
+    "id": 83,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 46.06
+  },
+  {
+    "id": 84,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 38.97
+  },
+  {
+    "id": 85,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 1.58
+  },
+  {
+    "id": 86,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 36.69
+  },
+  {
+    "id": 87,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 30.99
+  },
+  {
+    "id": 88,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 55.04
+  },
+  {
+    "id": 89,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 46.9
+  },
+  {
+    "id": 90,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 68.4
+  },
+  {
+    "id": 91,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 56.03
+  },
+  {
+    "id": 92,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 70.16
+  },
+  {
+    "id": 93,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 35.66
+  },
+  {
+    "id": 94,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 43.6
+  },
+  {
+    "id": 95,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 67.26
+  },
+  {
+    "id": 96,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 98.38
+  },
+  {
+    "id": 97,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 50.39
+  },
+  {
+    "id": 98,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 28.33
+  },
+  {
+    "id": 99,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 45.0
+  },
+  {
+    "id": 100,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 93.34
+  },
+  {
+    "id": 101,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 99.14
+  },
+  {
+    "id": 102,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 6.99
+  },
+  {
+    "id": 103,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 60.95
+  },
+  {
+    "id": 104,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 33.23
+  },
+  {
+    "id": 105,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 55.34
+  },
+  {
+    "id": 106,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 19.33
+  },
+  {
+    "id": 107,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 30.66
+  },
+  {
+    "id": 108,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 45.87
+  },
+  {
+    "id": 109,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 18.37
+  },
+  {
+    "id": 110,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 6.01
+  },
+  {
+    "id": 111,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 35.78
+  },
+  {
+    "id": 112,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 62.77
+  },
+  {
+    "id": 113,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 24.49
+  },
+  {
+    "id": 114,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 9.34
+  },
+  {
+    "id": 115,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 21.59
+  },
+  {
+    "id": 116,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 57.36
+  },
+  {
+    "id": 117,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 36.92
+  },
+  {
+    "id": 118,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 24.03
+  },
+  {
+    "id": 119,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 21.59
+  },
+  {
+    "id": 120,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 92.44
+  },
+  {
+    "id": 121,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 86.51
+  },
+  {
+    "id": 122,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 79.66
+  },
+  {
+    "id": 123,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 51.44
+  },
+  {
+    "id": 124,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 97.68
+  },
+  {
+    "id": 125,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 5.97
+  },
+  {
+    "id": 126,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 70.57
+  },
+  {
+    "id": 127,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 49.22
+  },
+  {
+    "id": 128,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 38.84
+  },
+  {
+    "id": 129,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 67.89
+  },
+  {
+    "id": 130,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 97.92
+  },
+  {
+    "id": 131,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 32.16
+  },
+  {
+    "id": 132,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 24.84
+  },
+  {
+    "id": 133,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 36.99
+  },
+  {
+    "id": 134,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 98.28
+  },
+  {
+    "id": 135,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 46.25
+  },
+  {
+    "id": 136,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 62.31
+  },
+  {
+    "id": 137,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 83.86
+  },
+  {
+    "id": 138,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 49.76
+  },
+  {
+    "id": 139,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 33.12
+  },
+  {
+    "id": 140,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 37.91
+  },
+  {
+    "id": 141,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 11.28
+  },
+  {
+    "id": 142,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 75.39
+  },
+  {
+    "id": 143,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 35.65
+  },
+  {
+    "id": 144,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 55.94
+  },
+  {
+    "id": 145,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 34.68
+  },
+  {
+    "id": 146,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 78.51
+  },
+  {
+    "id": 147,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 25.64
+  },
+  {
+    "id": 148,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 92.58
+  },
+  {
+    "id": 149,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 1.79
+  },
+  {
+    "id": 150,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 68.5
+  },
+  {
+    "id": 151,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 66.36
+  },
+  {
+    "id": 152,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 70.45
+  },
+  {
+    "id": 153,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 99.8
+  },
+  {
+    "id": 154,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 84.98
+  },
+  {
+    "id": 155,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 96.42
+  },
+  {
+    "id": 156,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 9.54
+  },
+  {
+    "id": 157,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 88.82
+  },
+  {
+    "id": 158,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 49.68
+  },
+  {
+    "id": 159,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 65.93
+  },
+  {
+    "id": 160,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 90.86
+  },
+  {
+    "id": 161,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 92.93
+  },
+  {
+    "id": 162,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 95.55
+  },
+  {
+    "id": 163,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 47.14
+  },
+  {
+    "id": 164,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 18.39
+  },
+  {
+    "id": 165,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 11.2
+  },
+  {
+    "id": 166,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 18.78
+  },
+  {
+    "id": 167,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 20.75
+  },
+  {
+    "id": 168,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 98.74
+  },
+  {
+    "id": 169,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 90.48
+  },
+  {
+    "id": 170,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 46.35
+  },
+  {
+    "id": 171,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 71.42
+  },
+  {
+    "id": 172,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 5.78
+  },
+  {
+    "id": 173,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 71.79
+  },
+  {
+    "id": 174,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 39.33
+  },
+  {
+    "id": 175,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 46.67
+  },
+  {
+    "id": 176,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 54.51
+  },
+  {
+    "id": 177,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 36.04
+  },
+  {
+    "id": 178,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 14.85
+  },
+  {
+    "id": 179,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 81.24
+  },
+  {
+    "id": 180,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 24.6
+  },
+  {
+    "id": 181,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 51.3
+  },
+  {
+    "id": 182,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 56.27
+  },
+  {
+    "id": 183,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 28.92
+  },
+  {
+    "id": 184,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 42.97
+  },
+  {
+    "id": 185,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 87.49
+  },
+  {
+    "id": 186,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 38.44
+  },
+  {
+    "id": 187,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 78.37
+  },
+  {
+    "id": 188,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 66.89
+  },
+  {
+    "id": 189,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 56.73
+  },
+  {
+    "id": 190,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 95.62
+  },
+  {
+    "id": 191,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 93.33
+  },
+  {
+    "id": 192,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 97.1
+  },
+  {
+    "id": 193,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 73.77
+  },
+  {
+    "id": 194,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 66.16
+  },
+  {
+    "id": 195,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 58.33
+  },
+  {
+    "id": 196,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 88.69
+  },
+  {
+    "id": 197,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 39.94
+  },
+  {
+    "id": 198,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 98.75
+  },
+  {
+    "id": 199,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 79.25
+  },
+  {
+    "id": 200,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 94.59
+  },
+  {
+    "id": 201,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 6.08
+  },
+  {
+    "id": 202,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 74.86
+  },
+  {
+    "id": 203,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 29.07
+  },
+  {
+    "id": 204,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 56.79
+  },
+  {
+    "id": 205,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 31.59
+  },
+  {
+    "id": 206,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 65.31
+  },
+  {
+    "id": 207,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 90.65
+  },
+  {
+    "id": 208,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 51.72
+  },
+  {
+    "id": 209,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 90.87
+  },
+  {
+    "id": 210,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 74.53
+  },
+  {
+    "id": 211,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 85.76
+  },
+  {
+    "id": 212,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 22.51
+  },
+  {
+    "id": 213,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 6.93
+  },
+  {
+    "id": 214,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 5.03
+  },
+  {
+    "id": 215,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 69.19
+  },
+  {
+    "id": 216,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 14.29
+  },
+  {
+    "id": 217,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 65.93
+  },
+  {
+    "id": 218,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 89.48
+  },
+  {
+    "id": 219,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 89.24
+  },
+  {
+    "id": 220,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 12.4
+  },
+  {
+    "id": 221,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 91.03
+  },
+  {
+    "id": 222,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 27.47
+  },
+  {
+    "id": 223,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 3.46
+  },
+  {
+    "id": 224,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 30.24
+  },
+  {
+    "id": 225,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 26.25
+  },
+  {
+    "id": 226,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 36.44
+  },
+  {
+    "id": 227,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 76.59
+  },
+  {
+    "id": 228,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 28.2
+  },
+  {
+    "id": 229,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 37.97
+  },
+  {
+    "id": 230,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 69.74
+  },
+  {
+    "id": 231,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 26.85
+  },
+  {
+    "id": 232,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 41.62
+  },
+  {
+    "id": 233,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 46.44
+  },
+  {
+    "id": 234,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 96.54
+  },
+  {
+    "id": 235,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 51.1
+  },
+  {
+    "id": 236,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 33.26
+  },
+  {
+    "id": 237,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 78.32
+  },
+  {
+    "id": 238,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 2.84
+  },
+  {
+    "id": 239,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 27.66
+  },
+  {
+    "id": 240,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 33.29
+  },
+  {
+    "id": 241,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 29.49
+  },
+  {
+    "id": 242,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 44.3
+  },
+  {
+    "id": 243,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 73.43
+  },
+  {
+    "id": 244,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 85.41
+  },
+  {
+    "id": 245,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 98.63
+  },
+  {
+    "id": 246,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 69.69
+  },
+  {
+    "id": 247,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 44.84
+  },
+  {
+    "id": 248,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 13.46
+  },
+  {
+    "id": 249,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 17.98
+  },
+  {
+    "id": 250,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 33.6
+  },
+  {
+    "id": 251,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 21.89
+  },
+  {
+    "id": 252,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 93.5
+  },
+  {
+    "id": 253,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 55.62
+  },
+  {
+    "id": 254,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 13.63
+  },
+  {
+    "id": 255,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 89.47
+  },
+  {
+    "id": 256,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 21.56
+  },
+  {
+    "id": 257,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 61.54
+  },
+  {
+    "id": 258,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 63.86
+  },
+  {
+    "id": 259,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 78.97
+  },
+  {
+    "id": 260,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 97.6
+  },
+  {
+    "id": 261,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 34.26
+  },
+  {
+    "id": 262,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 81.72
+  },
+  {
+    "id": 263,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 24.9
+  },
+  {
+    "id": 264,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 22.44
+  },
+  {
+    "id": 265,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 40.84
+  },
+  {
+    "id": 266,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 28.05
+  },
+  {
+    "id": 267,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 42.7
+  },
+  {
+    "id": 268,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 81.55
+  },
+  {
+    "id": 269,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 55.63
+  },
+  {
+    "id": 270,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 78.03
+  },
+  {
+    "id": 271,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 41.64
+  },
+  {
+    "id": 272,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 36.66
+  },
+  {
+    "id": 273,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 32.41
+  },
+  {
+    "id": 274,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 34.75
+  },
+  {
+    "id": 275,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 98.52
+  },
+  {
+    "id": 276,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 77.18
+  },
+  {
+    "id": 277,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 12.93
+  },
+  {
+    "id": 278,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 35.96
+  },
+  {
+    "id": 279,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 36.91
+  },
+  {
+    "id": 280,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 57.25
+  },
+  {
+    "id": 281,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 82.29
+  },
+  {
+    "id": 282,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 60.26
+  },
+  {
+    "id": 283,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 15.47
+  },
+  {
+    "id": 284,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 38.87
+  },
+  {
+    "id": 285,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 9.09
+  },
+  {
+    "id": 286,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 89.07
+  },
+  {
+    "id": 287,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 33.68
+  },
+  {
+    "id": 288,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 9.37
+  },
+  {
+    "id": 289,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 76.96
+  },
+  {
+    "id": 290,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 98.6
+  },
+  {
+    "id": 291,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 95.75
+  },
+  {
+    "id": 292,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 55.88
+  },
+  {
+    "id": 293,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 10.91
+  },
+  {
+    "id": 294,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 88.67
+  },
+  {
+    "id": 295,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 33.6
+  },
+  {
+    "id": 296,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 35.95
+  },
+  {
+    "id": 297,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 25.0
+  },
+  {
+    "id": 298,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 83.55
+  },
+  {
+    "id": 299,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 17.45
+  },
+  {
+    "id": 300,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 53.4
+  },
+  {
+    "id": 301,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 11.75
+  },
+  {
+    "id": 302,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 37.08
+  },
+  {
+    "id": 303,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 63.07
+  },
+  {
+    "id": 304,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 53.36
+  },
+  {
+    "id": 305,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 56.69
+  },
+  {
+    "id": 306,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 7.48
+  },
+  {
+    "id": 307,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 97.79
+  },
+  {
+    "id": 308,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 62.77
+  },
+  {
+    "id": 309,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 96.47
+  },
+  {
+    "id": 310,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 36.41
+  },
+  {
+    "id": 311,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 22.81
+  },
+  {
+    "id": 312,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 34.88
+  },
+  {
+    "id": 313,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 36.03
+  },
+  {
+    "id": 314,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 76.48
+  },
+  {
+    "id": 315,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 68.8
+  },
+  {
+    "id": 316,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 69.72
+  },
+  {
+    "id": 317,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 37.08
+  },
+  {
+    "id": 318,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 35.89
+  },
+  {
+    "id": 319,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 11.31
+  },
+  {
+    "id": 320,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 8.54
+  },
+  {
+    "id": 321,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 54.47
+  },
+  {
+    "id": 322,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 28.43
+  },
+  {
+    "id": 323,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 88.44
+  },
+  {
+    "id": 324,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 4.85
+  },
+  {
+    "id": 325,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 57.28
+  },
+  {
+    "id": 326,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 19.22
+  },
+  {
+    "id": 327,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 78.9
+  },
+  {
+    "id": 328,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 33.41
+  },
+  {
+    "id": 329,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 13.11
+  },
+  {
+    "id": 330,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 71.03
+  },
+  {
+    "id": 331,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 15.21
+  },
+  {
+    "id": 332,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 85.58
+  },
+  {
+    "id": 333,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 47.01
+  },
+  {
+    "id": 334,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 99.56
+  },
+  {
+    "id": 335,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 50.62
+  },
+  {
+    "id": 336,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 97.49
+  },
+  {
+    "id": 337,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 59.53
+  },
+  {
+    "id": 338,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 47.6
+  },
+  {
+    "id": 339,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 14.69
+  },
+  {
+    "id": 340,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 50.42
+  },
+  {
+    "id": 341,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 55.53
+  },
+  {
+    "id": 342,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 67.55
+  },
+  {
+    "id": 343,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 59.17
+  },
+  {
+    "id": 344,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 31.62
+  },
+  {
+    "id": 345,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 99.47
+  },
+  {
+    "id": 346,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 30.02
+  },
+  {
+    "id": 347,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 67.31
+  },
+  {
+    "id": 348,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 19.82
+  },
+  {
+    "id": 349,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 54.28
+  },
+  {
+    "id": 350,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 39.1
+  },
+  {
+    "id": 351,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 85.41
+  },
+  {
+    "id": 352,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 41.61
+  },
+  {
+    "id": 353,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 3.21
+  },
+  {
+    "id": 354,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 31.59
+  },
+  {
+    "id": 355,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 84.63
+  },
+  {
+    "id": 356,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 68.3
+  },
+  {
+    "id": 357,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 37.95
+  },
+  {
+    "id": 358,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 98.66
+  },
+  {
+    "id": 359,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 82.36
+  },
+  {
+    "id": 360,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 48.89
+  },
+  {
+    "id": 361,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 88.16
+  },
+  {
+    "id": 362,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 12.27
+  },
+  {
+    "id": 363,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 7.37
+  },
+  {
+    "id": 364,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 64.94
+  },
+  {
+    "id": 365,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 2.37
+  },
+  {
+    "id": 366,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 86.86
+  },
+  {
+    "id": 367,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 77.06
+  },
+  {
+    "id": 368,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 37.06
+  },
+  {
+    "id": 369,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 59.84
+  },
+  {
+    "id": 370,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 22.92
+  },
+  {
+    "id": 371,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 19.22
+  },
+  {
+    "id": 372,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 42.67
+  },
+  {
+    "id": 373,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 84.67
+  },
+  {
+    "id": 374,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 14.33
+  },
+  {
+    "id": 375,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 93.52
+  },
+  {
+    "id": 376,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 11.32
+  },
+  {
+    "id": 377,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 24.92
+  },
+  {
+    "id": 378,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 42.79
+  },
+  {
+    "id": 379,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 64.3
+  },
+  {
+    "id": 380,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 61.21
+  },
+  {
+    "id": 381,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 76.3
+  },
+  {
+    "id": 382,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 39.41
+  },
+  {
+    "id": 383,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 53.7
+  },
+  {
+    "id": 384,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 10.23
+  },
+  {
+    "id": 385,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 11.01
+  },
+  {
+    "id": 386,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 17.27
+  },
+  {
+    "id": 387,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 79.39
+  },
+  {
+    "id": 388,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 42.35
+  },
+  {
+    "id": 389,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 37.03
+  },
+  {
+    "id": 390,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 38.24
+  },
+  {
+    "id": 391,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 81.32
+  },
+  {
+    "id": 392,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 72.27
+  },
+  {
+    "id": 393,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 9.49
+  },
+  {
+    "id": 394,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 4.49
+  },
+  {
+    "id": 395,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 38.24
+  },
+  {
+    "id": 396,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 20.12
+  },
+  {
+    "id": 397,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 28.98
+  },
+  {
+    "id": 398,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 5.08
+  },
+  {
+    "id": 399,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 57.53
+  },
+  {
+    "id": 400,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 58.0
+  },
+  {
+    "id": 401,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 26.21
+  },
+  {
+    "id": 402,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 84.8
+  },
+  {
+    "id": 403,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 34.8
+  },
+  {
+    "id": 404,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 58.48
+  },
+  {
+    "id": 405,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 54.14
+  },
+  {
+    "id": 406,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 54.37
+  },
+  {
+    "id": 407,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 28.75
+  },
+  {
+    "id": 408,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 61.46
+  },
+  {
+    "id": 409,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 91.3
+  },
+  {
+    "id": 410,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 74.52
+  },
+  {
+    "id": 411,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 1.18
+  },
+  {
+    "id": 412,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 20.17
+  },
+  {
+    "id": 413,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 78.42
+  },
+  {
+    "id": 414,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 56.1
+  },
+  {
+    "id": 415,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 13.24
+  },
+  {
+    "id": 416,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 15.43
+  },
+  {
+    "id": 417,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 75.69
+  },
+  {
+    "id": 418,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 43.24
+  },
+  {
+    "id": 419,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 11.95
+  },
+  {
+    "id": 420,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 9.78
+  },
+  {
+    "id": 421,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 37.34
+  },
+  {
+    "id": 422,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 66.63
+  },
+  {
+    "id": 423,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 11.83
+  },
+  {
+    "id": 424,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 99.3
+  },
+  {
+    "id": 425,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 70.45
+  },
+  {
+    "id": 426,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 74.01
+  },
+  {
+    "id": 427,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 68.16
+  },
+  {
+    "id": 428,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 70.17
+  },
+  {
+    "id": 429,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 88.29
+  },
+  {
+    "id": 430,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 53.07
+  },
+  {
+    "id": 431,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 54.39
+  },
+  {
+    "id": 432,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 62.56
+  },
+  {
+    "id": 433,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 63.4
+  },
+  {
+    "id": 434,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 58.76
+  },
+  {
+    "id": 435,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 25.1
+  },
+  {
+    "id": 436,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 74.9
+  },
+  {
+    "id": 437,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 11.38
+  },
+  {
+    "id": 438,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 46.64
+  },
+  {
+    "id": 439,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 47.86
+  },
+  {
+    "id": 440,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 99.37
+  },
+  {
+    "id": 441,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 85.47
+  },
+  {
+    "id": 442,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 15.51
+  },
+  {
+    "id": 443,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 51.5
+  },
+  {
+    "id": 444,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 63.94
+  },
+  {
+    "id": 445,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 45.14
+  },
+  {
+    "id": 446,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 18.76
+  },
+  {
+    "id": 447,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 66.5
+  },
+  {
+    "id": 448,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 84.38
+  },
+  {
+    "id": 449,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 86.2
+  },
+  {
+    "id": 450,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 72.16
+  },
+  {
+    "id": 451,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 89.22
+  },
+  {
+    "id": 452,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 70.95
+  },
+  {
+    "id": 453,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 50.81
+  },
+  {
+    "id": 454,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 66.99
+  },
+  {
+    "id": 455,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 76.39
+  },
+  {
+    "id": 456,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 50.85
+  },
+  {
+    "id": 457,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 26.09
+  },
+  {
+    "id": 458,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 76.22
+  },
+  {
+    "id": 459,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 68.45
+  },
+  {
+    "id": 460,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 7.25
+  },
+  {
+    "id": 461,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 14.02
+  },
+  {
+    "id": 462,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 62.19
+  },
+  {
+    "id": 463,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 30.94
+  },
+  {
+    "id": 464,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 66.74
+  },
+  {
+    "id": 465,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 88.48
+  },
+  {
+    "id": 466,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 35.71
+  },
+  {
+    "id": 467,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 75.44
+  },
+  {
+    "id": 468,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 72.95
+  },
+  {
+    "id": 469,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 46.04
+  },
+  {
+    "id": 470,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 12.63
+  },
+  {
+    "id": 471,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 2.85
+  },
+  {
+    "id": 472,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 54.91
+  },
+  {
+    "id": 473,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 58.45
+  },
+  {
+    "id": 474,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 42.71
+  },
+  {
+    "id": 475,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 39.99
+  },
+  {
+    "id": 476,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 66.64
+  },
+  {
+    "id": 477,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 1.7
+  },
+  {
+    "id": 478,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 14.56
+  },
+  {
+    "id": 479,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 71.78
+  },
+  {
+    "id": 480,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 47.39
+  },
+  {
+    "id": 481,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 77.78
+  },
+  {
+    "id": 482,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 3.71
+  },
+  {
+    "id": 483,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 15.78
+  },
+  {
+    "id": 484,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 56.36
+  },
+  {
+    "id": 485,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 25.3
+  },
+  {
+    "id": 486,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 4.63
+  },
+  {
+    "id": 487,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 36.08
+  },
+  {
+    "id": 488,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 9.37
+  },
+  {
+    "id": 489,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 8.32
+  },
+  {
+    "id": 490,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 89.86
+  },
+  {
+    "id": 491,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 12.76
+  },
+  {
+    "id": 492,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 69.29
+  },
+  {
+    "id": 493,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 2.93
+  },
+  {
+    "id": 494,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 98.11
+  },
+  {
+    "id": 495,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 80.63
+  },
+  {
+    "id": 496,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 81.9
+  },
+  {
+    "id": 497,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 89.87
+  },
+  {
+    "id": 498,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 99.14
+  },
+  {
+    "id": 499,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 46.58
+  },
+  {
+    "id": 500,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 80.21
+  },
+  {
+    "id": 501,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 59.08
+  },
+  {
+    "id": 502,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 36.34
+  },
+  {
+    "id": 503,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 94.81
+  },
+  {
+    "id": 504,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 66.67
+  },
+  {
+    "id": 505,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 45.17
+  },
+  {
+    "id": 506,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 8.04
+  },
+  {
+    "id": 507,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 80.53
+  },
+  {
+    "id": 508,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 72.22
+  },
+  {
+    "id": 509,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 85.29
+  },
+  {
+    "id": 510,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 92.81
+  },
+  {
+    "id": 511,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 90.04
+  },
+  {
+    "id": 512,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 68.91
+  },
+  {
+    "id": 513,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 5.59
+  },
+  {
+    "id": 514,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 41.94
+  },
+  {
+    "id": 515,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 54.44
+  },
+  {
+    "id": 516,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 88.99
+  },
+  {
+    "id": 517,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 22.11
+  },
+  {
+    "id": 518,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 59.81
+  },
+  {
+    "id": 519,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 77.17
+  },
+  {
+    "id": 520,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 2.28
+  },
+  {
+    "id": 521,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 57.36
+  },
+  {
+    "id": 522,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 75.97
+  },
+  {
+    "id": 523,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 72.3
+  },
+  {
+    "id": 524,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 73.23
+  },
+  {
+    "id": 525,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 30.64
+  },
+  {
+    "id": 526,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 76.87
+  },
+  {
+    "id": 527,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 68.37
+  },
+  {
+    "id": 528,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 53.85
+  },
+  {
+    "id": 529,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 24.82
+  },
+  {
+    "id": 530,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 62.05
+  },
+  {
+    "id": 531,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 27.11
+  },
+  {
+    "id": 532,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 2.07
+  },
+  {
+    "id": 533,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 6.81
+  },
+  {
+    "id": 534,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 6.55
+  },
+  {
+    "id": 535,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 91.48
+  },
+  {
+    "id": 536,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 81.59
+  },
+  {
+    "id": 537,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 67.8
+  },
+  {
+    "id": 538,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 62.85
+  },
+  {
+    "id": 539,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 83.95
+  },
+  {
+    "id": 540,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 87.99
+  },
+  {
+    "id": 541,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 4.98
+  },
+  {
+    "id": 542,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 81.31
+  },
+  {
+    "id": 543,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 24.09
+  },
+  {
+    "id": 544,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 54.85
+  },
+  {
+    "id": 545,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 42.39
+  },
+  {
+    "id": 546,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 17.54
+  },
+  {
+    "id": 547,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 73.95
+  },
+  {
+    "id": 548,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 79.75
+  },
+  {
+    "id": 549,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 51.41
+  },
+  {
+    "id": 550,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 38.83
+  },
+  {
+    "id": 551,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 92.43
+  },
+  {
+    "id": 552,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 62.22
+  },
+  {
+    "id": 553,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 89.4
+  },
+  {
+    "id": 554,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 34.37
+  },
+  {
+    "id": 555,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 24.15
+  },
+  {
+    "id": 556,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 42.05
+  },
+  {
+    "id": 557,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 65.34
+  },
+  {
+    "id": 558,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 53.24
+  },
+  {
+    "id": 559,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 1.73
+  },
+  {
+    "id": 560,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 22.99
+  },
+  {
+    "id": 561,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 47.26
+  },
+  {
+    "id": 562,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 10.48
+  },
+  {
+    "id": 563,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 60.0
+  },
+  {
+    "id": 564,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 59.67
+  },
+  {
+    "id": 565,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 18.19
+  },
+  {
+    "id": 566,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 26.84
+  },
+  {
+    "id": 567,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 6.92
+  },
+  {
+    "id": 568,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 75.91
+  },
+  {
+    "id": 569,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 71.13
+  },
+  {
+    "id": 570,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 87.11
+  },
+  {
+    "id": 571,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 71.75
+  },
+  {
+    "id": 572,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 68.93
+  },
+  {
+    "id": 573,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 56.85
+  },
+  {
+    "id": 574,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 92.63
+  },
+  {
+    "id": 575,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 5.83
+  },
+  {
+    "id": 576,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 47.97
+  },
+  {
+    "id": 577,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 16.24
+  },
+  {
+    "id": 578,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 42.27
+  },
+  {
+    "id": 579,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 93.83
+  },
+  {
+    "id": 580,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 17.0
+  },
+  {
+    "id": 581,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 10.7
+  },
+  {
+    "id": 582,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 12.55
+  },
+  {
+    "id": 583,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 66.11
+  },
+  {
+    "id": 584,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 10.25
+  },
+  {
+    "id": 585,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 10.47
+  },
+  {
+    "id": 586,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 85.41
+  },
+  {
+    "id": 587,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 32.76
+  },
+  {
+    "id": 588,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 60.76
+  },
+  {
+    "id": 589,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 33.15
+  },
+  {
+    "id": 590,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 39.08
+  },
+  {
+    "id": 591,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 4.35
+  },
+  {
+    "id": 592,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 27.53
+  },
+  {
+    "id": 593,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 34.9
+  },
+  {
+    "id": 594,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 79.38
+  },
+  {
+    "id": 595,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 68.1
+  },
+  {
+    "id": 596,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 42.69
+  },
+  {
+    "id": 597,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 92.53
+  },
+  {
+    "id": 598,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 30.21
+  },
+  {
+    "id": 599,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 15.86
+  },
+  {
+    "id": 600,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 27.29
+  },
+  {
+    "id": 601,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 81.36
+  },
+  {
+    "id": 602,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 60.69
+  },
+  {
+    "id": 603,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 68.41
+  },
+  {
+    "id": 604,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 70.64
+  },
+  {
+    "id": 605,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 44.32
+  },
+  {
+    "id": 606,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 18.62
+  },
+  {
+    "id": 607,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 13.82
+  },
+  {
+    "id": 608,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 10.04
+  },
+  {
+    "id": 609,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 40.75
+  },
+  {
+    "id": 610,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 41.72
+  },
+  {
+    "id": 611,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 39.73
+  },
+  {
+    "id": 612,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 86.2
+  },
+  {
+    "id": 613,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 47.31
+  },
+  {
+    "id": 614,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 3.53
+  },
+  {
+    "id": 615,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 96.02
+  },
+  {
+    "id": 616,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 67.28
+  },
+  {
+    "id": 617,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 30.15
+  },
+  {
+    "id": 618,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 21.05
+  },
+  {
+    "id": 619,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 78.75
+  },
+  {
+    "id": 620,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 80.58
+  },
+  {
+    "id": 621,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 13.45
+  },
+  {
+    "id": 622,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 48.69
+  },
+  {
+    "id": 623,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 67.4
+  },
+  {
+    "id": 624,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 2.76
+  },
+  {
+    "id": 625,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 43.83
+  },
+  {
+    "id": 626,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 8.18
+  },
+  {
+    "id": 627,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 79.4
+  },
+  {
+    "id": 628,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 6.11
+  },
+  {
+    "id": 629,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 15.08
+  },
+  {
+    "id": 630,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 36.28
+  },
+  {
+    "id": 631,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 57.72
+  },
+  {
+    "id": 632,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 27.72
+  },
+  {
+    "id": 633,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 19.04
+  },
+  {
+    "id": 634,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 34.76
+  },
+  {
+    "id": 635,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 70.59
+  },
+  {
+    "id": 636,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 48.27
+  },
+  {
+    "id": 637,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 74.44
+  },
+  {
+    "id": 638,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 73.34
+  },
+  {
+    "id": 639,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 97.6
+  },
+  {
+    "id": 640,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 36.11
+  },
+  {
+    "id": 641,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 81.49
+  },
+  {
+    "id": 642,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 38.75
+  },
+  {
+    "id": 643,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 33.93
+  },
+  {
+    "id": 644,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 52.06
+  },
+  {
+    "id": 645,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 86.09
+  },
+  {
+    "id": 646,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 38.94
+  },
+  {
+    "id": 647,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 95.45
+  },
+  {
+    "id": 648,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 29.55
+  },
+  {
+    "id": 649,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 27.08
+  },
+  {
+    "id": 650,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 30.12
+  },
+  {
+    "id": 651,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 53.89
+  },
+  {
+    "id": 652,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 70.28
+  },
+  {
+    "id": 653,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 75.26
+  },
+  {
+    "id": 654,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 2.38
+  },
+  {
+    "id": 655,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 91.68
+  },
+  {
+    "id": 656,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 5.33
+  },
+  {
+    "id": 657,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 92.07
+  },
+  {
+    "id": 658,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 95.27
+  },
+  {
+    "id": 659,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 22.24
+  },
+  {
+    "id": 660,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 61.03
+  },
+  {
+    "id": 661,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 51.26
+  },
+  {
+    "id": 662,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 10.18
+  },
+  {
+    "id": 663,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 49.84
+  },
+  {
+    "id": 664,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 93.51
+  },
+  {
+    "id": 665,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 50.91
+  },
+  {
+    "id": 666,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 20.79
+  },
+  {
+    "id": 667,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 40.38
+  },
+  {
+    "id": 668,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 83.88
+  },
+  {
+    "id": 669,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 3.68
+  },
+  {
+    "id": 670,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 69.25
+  },
+  {
+    "id": 671,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 59.09
+  },
+  {
+    "id": 672,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 49.85
+  },
+  {
+    "id": 673,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 83.33
+  },
+  {
+    "id": 674,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 58.3
+  },
+  {
+    "id": 675,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 33.13
+  },
+  {
+    "id": 676,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 89.3
+  },
+  {
+    "id": 677,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 8.54
+  },
+  {
+    "id": 678,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 18.31
+  },
+  {
+    "id": 679,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 65.72
+  },
+  {
+    "id": 680,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 87.5
+  },
+  {
+    "id": 681,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 39.94
+  },
+  {
+    "id": 682,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 16.94
+  },
+  {
+    "id": 683,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 23.73
+  },
+  {
+    "id": 684,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 21.48
+  },
+  {
+    "id": 685,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 99.33
+  },
+  {
+    "id": 686,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 72.65
+  },
+  {
+    "id": 687,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 13.65
+  },
+  {
+    "id": 688,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 84.28
+  },
+  {
+    "id": 689,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 95.43
+  },
+  {
+    "id": 690,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 35.06
+  },
+  {
+    "id": 691,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 34.35
+  },
+  {
+    "id": 692,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 82.2
+  },
+  {
+    "id": 693,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 24.26
+  },
+  {
+    "id": 694,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 8.45
+  },
+  {
+    "id": 695,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 43.08
+  },
+  {
+    "id": 696,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 14.88
+  },
+  {
+    "id": 697,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 53.46
+  },
+  {
+    "id": 698,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 18.15
+  },
+  {
+    "id": 699,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 38.52
+  },
+  {
+    "id": 700,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 6.8
+  },
+  {
+    "id": 701,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 69.3
+  },
+  {
+    "id": 702,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 75.59
+  },
+  {
+    "id": 703,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 12.44
+  },
+  {
+    "id": 704,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 6.76
+  },
+  {
+    "id": 705,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 59.76
+  },
+  {
+    "id": 706,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 49.0
+  },
+  {
+    "id": 707,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 90.25
+  },
+  {
+    "id": 708,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 49.46
+  },
+  {
+    "id": 709,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 54.53
+  },
+  {
+    "id": 710,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 13.34
+  },
+  {
+    "id": 711,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 10.34
+  },
+  {
+    "id": 712,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 55.44
+  },
+  {
+    "id": 713,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 49.43
+  },
+  {
+    "id": 714,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 16.65
+  },
+  {
+    "id": 715,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 94.35
+  },
+  {
+    "id": 716,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 25.91
+  },
+  {
+    "id": 717,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 5.5
+  },
+  {
+    "id": 718,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 50.18
+  },
+  {
+    "id": 719,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 70.8
+  },
+  {
+    "id": 720,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 16.39
+  },
+  {
+    "id": 721,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 90.22
+  },
+  {
+    "id": 722,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 19.18
+  },
+  {
+    "id": 723,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 28.05
+  },
+  {
+    "id": 724,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 55.72
+  },
+  {
+    "id": 725,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 18.88
+  },
+  {
+    "id": 726,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 60.2
+  },
+  {
+    "id": 727,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 2.61
+  },
+  {
+    "id": 728,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 87.76
+  },
+  {
+    "id": 729,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 61.32
+  },
+  {
+    "id": 730,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 2.04
+  },
+  {
+    "id": 731,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 10.15
+  },
+  {
+    "id": 732,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 95.23
+  },
+  {
+    "id": 733,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 74.7
+  },
+  {
+    "id": 734,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 36.61
+  },
+  {
+    "id": 735,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 92.7
+  },
+  {
+    "id": 736,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 45.9
+  },
+  {
+    "id": 737,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 52.07
+  },
+  {
+    "id": 738,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 73.12
+  },
+  {
+    "id": 739,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 15.67
+  },
+  {
+    "id": 740,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 49.19
+  },
+  {
+    "id": 741,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 45.37
+  },
+  {
+    "id": 742,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 44.74
+  },
+  {
+    "id": 743,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 59.86
+  },
+  {
+    "id": 744,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 85.99
+  },
+  {
+    "id": 745,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 97.31
+  },
+  {
+    "id": 746,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 25.33
+  },
+  {
+    "id": 747,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 92.32
+  },
+  {
+    "id": 748,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 1.88
+  },
+  {
+    "id": 749,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 32.39
+  },
+  {
+    "id": 750,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 57.45
+  },
+  {
+    "id": 751,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 11.04
+  },
+  {
+    "id": 752,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 86.64
+  },
+  {
+    "id": 753,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 76.93
+  },
+  {
+    "id": 754,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 98.09
+  },
+  {
+    "id": 755,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 40.19
+  },
+  {
+    "id": 756,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 22.15
+  },
+  {
+    "id": 757,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 73.83
+  },
+  {
+    "id": 758,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 11.79
+  },
+  {
+    "id": 759,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 47.8
+  },
+  {
+    "id": 760,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 66.41
+  },
+  {
+    "id": 761,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 70.4
+  },
+  {
+    "id": 762,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 68.09
+  },
+  {
+    "id": 763,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 55.53
+  },
+  {
+    "id": 764,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 79.03
+  },
+  {
+    "id": 765,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 25.55
+  },
+  {
+    "id": 766,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 32.6
+  },
+  {
+    "id": 767,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 54.66
+  },
+  {
+    "id": 768,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 21.76
+  },
+  {
+    "id": 769,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 76.81
+  },
+  {
+    "id": 770,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 92.71
+  },
+  {
+    "id": 771,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 23.89
+  },
+  {
+    "id": 772,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 74.27
+  },
+  {
+    "id": 773,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 30.98
+  },
+  {
+    "id": 774,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 74.06
+  },
+  {
+    "id": 775,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 89.54
+  },
+  {
+    "id": 776,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 17.6
+  },
+  {
+    "id": 777,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 56.72
+  },
+  {
+    "id": 778,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 52.81
+  },
+  {
+    "id": 779,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 64.33
+  },
+  {
+    "id": 780,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 2.77
+  },
+  {
+    "id": 781,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 35.65
+  },
+  {
+    "id": 782,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 56.68
+  },
+  {
+    "id": 783,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 98.14
+  },
+  {
+    "id": 784,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 4.62
+  },
+  {
+    "id": 785,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 25.36
+  },
+  {
+    "id": 786,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 22.86
+  },
+  {
+    "id": 787,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 53.63
+  },
+  {
+    "id": 788,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 39.57
+  },
+  {
+    "id": 789,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 11.02
+  },
+  {
+    "id": 790,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 52.54
+  },
+  {
+    "id": 791,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 28.83
+  },
+  {
+    "id": 792,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 2.26
+  },
+  {
+    "id": 793,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 98.1
+  },
+  {
+    "id": 794,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 36.46
+  },
+  {
+    "id": 795,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 37.28
+  },
+  {
+    "id": 796,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 88.16
+  },
+  {
+    "id": 797,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 38.67
+  },
+  {
+    "id": 798,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 30.72
+  },
+  {
+    "id": 799,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 45.1
+  },
+  {
+    "id": 800,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 39.94
+  },
+  {
+    "id": 801,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 84.38
+  },
+  {
+    "id": 802,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 4.22
+  },
+  {
+    "id": 803,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 8.5
+  },
+  {
+    "id": 804,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 16.28
+  },
+  {
+    "id": 805,
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 83.02
+  },
+  {
+    "id": 806,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 20.5
+  },
+  {
+    "id": 807,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 75.42
+  },
+  {
+    "id": 808,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 21.54
+  },
+  {
+    "id": 809,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 31.89
+  },
+  {
+    "id": 810,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 32.12
+  },
+  {
+    "id": 811,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 76.14
+  },
+  {
+    "id": 812,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 77.7
+  },
+  {
+    "id": 813,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 30.46
+  },
+  {
+    "id": 814,
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 91.11
+  },
+  {
+    "id": 815,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 92.27
+  },
+  {
+    "id": 816,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 59.21
+  },
+  {
+    "id": 817,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 1.24
+  },
+  {
+    "id": 818,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 10.59
+  },
+  {
+    "id": 819,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 14.99
+  },
+  {
+    "id": 820,
+    "client_id": 19,
+    "account_type": "DEBIT",
+    "balance": 87.84
+  },
+  {
+    "id": 821,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 54.62
+  },
+  {
+    "id": 822,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 35.22
+  },
+  {
+    "id": 823,
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 32.48
+  },
+  {
+    "id": 824,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 49.42
+  },
+  {
+    "id": 825,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 78.8
+  },
+  {
+    "id": 826,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 56.7
+  },
+  {
+    "id": 827,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 51.67
+  },
+  {
+    "id": 828,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 86.82
+  },
+  {
+    "id": 829,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 82.94
+  },
+  {
+    "id": 830,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 20.85
+  },
+  {
+    "id": 831,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 21.41
+  },
+  {
+    "id": 832,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 84.06
+  },
+  {
+    "id": 833,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 51.65
+  },
+  {
+    "id": 834,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 31.63
+  },
+  {
+    "id": 835,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 38.52
+  },
+  {
+    "id": 836,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 57.62
+  },
+  {
+    "id": 837,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 36.53
+  },
+  {
+    "id": 838,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 59.85
+  },
+  {
+    "id": 839,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 2.28
+  },
+  {
+    "id": 840,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 98.82
+  },
+  {
+    "id": 841,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 44.69
+  },
+  {
+    "id": 842,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 76.95
+  },
+  {
+    "id": 843,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 49.39
+  },
+  {
+    "id": 844,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 55.3
+  },
+  {
+    "id": 845,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 81.8
+  },
+  {
+    "id": 846,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 29.1
+  },
+  {
+    "id": 847,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 90.39
+  },
+  {
+    "id": 848,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 24.95
+  },
+  {
+    "id": 849,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 39.23
+  },
+  {
+    "id": 850,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 15.68
+  },
+  {
+    "id": 851,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 34.38
+  },
+  {
+    "id": 852,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 19.12
+  },
+  {
+    "id": 853,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 39.89
+  },
+  {
+    "id": 854,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 39.54
+  },
+  {
+    "id": 855,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 67.01
+  },
+  {
+    "id": 856,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 27.37
+  },
+  {
+    "id": 857,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 89.44
+  },
+  {
+    "id": 858,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 38.12
+  },
+  {
+    "id": 859,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 53.53
+  },
+  {
+    "id": 860,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 4.26
+  },
+  {
+    "id": 861,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 92.53
+  },
+  {
+    "id": 862,
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 56.25
+  },
+  {
+    "id": 863,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 87.05
+  },
+  {
+    "id": 864,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 90.92
+  },
+  {
+    "id": 865,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 47.91
+  },
+  {
+    "id": 866,
+    "client_id": 24,
+    "account_type": "DEBIT",
+    "balance": 36.13
+  },
+  {
+    "id": 867,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 21.8
+  },
+  {
+    "id": 868,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 96.15
+  },
+  {
+    "id": 869,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 15.55
+  },
+  {
+    "id": 870,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 54.39
+  },
+  {
+    "id": 871,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 46.28
+  },
+  {
+    "id": 872,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 92.93
+  },
+  {
+    "id": 873,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 34.54
+  },
+  {
+    "id": 874,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 65.65
+  },
+  {
+    "id": 875,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 53.78
+  },
+  {
+    "id": 876,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 14.75
+  },
+  {
+    "id": 877,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 18.46
+  },
+  {
+    "id": 878,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 37.67
+  },
+  {
+    "id": 879,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 7.76
+  },
+  {
+    "id": 880,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 23.95
+  },
+  {
+    "id": 881,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 29.65
+  },
+  {
+    "id": 882,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 28.77
+  },
+  {
+    "id": 883,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 34.17
+  },
+  {
+    "id": 884,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 76.38
+  },
+  {
+    "id": 885,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 94.68
+  },
+  {
+    "id": 886,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 98.24
+  },
+  {
+    "id": 887,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 61.24
+  },
+  {
+    "id": 888,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 47.81
+  },
+  {
+    "id": 889,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 41.71
+  },
+  {
+    "id": 890,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 75.4
+  },
+  {
+    "id": 891,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 60.3
+  },
+  {
+    "id": 892,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 31.29
+  },
+  {
+    "id": 893,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 13.79
+  },
+  {
+    "id": 894,
+    "client_id": 23,
+    "account_type": "DEBIT",
+    "balance": 54.99
+  },
+  {
+    "id": 895,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 38.35
+  },
+  {
+    "id": 896,
+    "client_id": 9,
+    "account_type": "DEBIT",
+    "balance": 11.35
+  },
+  {
+    "id": 897,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 59.62
+  },
+  {
+    "id": 898,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 74.57
+  },
+  {
+    "id": 899,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 47.97
+  },
+  {
+    "id": 900,
+    "client_id": 7,
+    "account_type": "DEBIT",
+    "balance": 7.11
+  },
+  {
+    "id": 901,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 67.99
+  },
+  {
+    "id": 902,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 14.01
+  },
+  {
+    "id": 903,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 70.14
+  },
+  {
+    "id": 904,
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 34.97
+  },
+  {
+    "id": 905,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 85.56
+  },
+  {
+    "id": 906,
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 43.1
+  },
+  {
+    "id": 907,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 37.63
+  },
+  {
+    "id": 908,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 47.12
+  },
+  {
+    "id": 909,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 37.43
+  },
+  {
+    "id": 910,
+    "client_id": 11,
+    "account_type": "DEBIT",
+    "balance": 63.97
+  },
+  {
+    "id": 911,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 22.24
+  },
+  {
+    "id": 912,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 78.26
+  },
+  {
+    "id": 913,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 87.57
+  },
+  {
+    "id": 914,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 94.77
+  },
+  {
+    "id": 915,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 45.66
+  },
+  {
+    "id": 916,
+    "client_id": 15,
+    "account_type": "DEBIT",
+    "balance": 74.55
+  },
+  {
+    "id": 917,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 59.44
+  },
+  {
+    "id": 918,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 37.82
+  },
+  {
+    "id": 919,
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 81.98
+  },
+  {
+    "id": 920,
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 17.18
+  },
+  {
+    "id": 921,
+    "client_id": 16,
+    "account_type": "DEBIT",
+    "balance": 99.13
+  },
+  {
+    "id": 922,
+    "client_id": 26,
+    "account_type": "DEBIT",
+    "balance": 85.62
+  },
+  {
+    "id": 923,
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 88.18
+  },
+  {
+    "id": 924,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 77.74
+  },
+  {
+    "id": 925,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 64.08
+  },
+  {
+    "id": 926,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 35.85
+  },
+  {
+    "id": 927,
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 31.45
+  },
+  {
+    "id": 928,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 72.24
+  },
+  {
+    "id": 929,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 3.07
+  },
+  {
+    "id": 930,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 19.32
+  },
+  {
+    "id": 931,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 74.24
+  },
+  {
+    "id": 932,
+    "client_id": 1,
+    "account_type": "DEBIT",
+    "balance": 43.28
+  },
+  {
+    "id": 933,
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 94.68
+  },
+  {
+    "id": 934,
+    "client_id": 30,
+    "account_type": "DEBIT",
+    "balance": 15.95
+  },
+  {
+    "id": 935,
+    "client_id": 17,
+    "account_type": "DEBIT",
+    "balance": 54.98
+  },
+  {
+    "id": 936,
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 41.73
+  },
+  {
+    "id": 937,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 11.18
+  },
+  {
+    "id": 938,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 96.28
+  },
+  {
+    "id": 939,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 57.25
+  },
+  {
+    "id": 940,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 89.08
+  },
+  {
+    "id": 941,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 86.07
+  },
+  {
+    "id": 942,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 94.09
+  },
+  {
+    "id": 943,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 17.61
+  },
+  {
+    "id": 944,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 76.28
+  },
+  {
+    "id": 945,
+    "client_id": 22,
+    "account_type": "DEBIT",
+    "balance": 54.23
+  },
+  {
+    "id": 946,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 8.84
+  },
+  {
+    "id": 947,
+    "client_id": 14,
+    "account_type": "DEBIT",
+    "balance": 76.73
+  },
+  {
+    "id": 948,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 46.24
+  },
+  {
+    "id": 949,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 63.35
+  },
+  {
+    "id": 950,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 66.82
+  },
+  {
+    "id": 951,
+    "client_id": 3,
+    "account_type": "DEBIT",
+    "balance": 90.34
+  },
+  {
+    "id": 952,
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 8.29
+  },
+  {
+    "id": 953,
+    "client_id": 10,
+    "account_type": "DEBIT",
+    "balance": 87.62
+  },
+  {
+    "id": 954,
+    "client_id": 27,
+    "account_type": "DEBIT",
+    "balance": 27.92
+  },
+  {
+    "id": 955,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 76.27
+  },
+  {
+    "id": 956,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 72.72
+  },
+  {
+    "id": 957,
+    "client_id": 12,
+    "account_type": "DEBIT",
+    "balance": 54.94
+  },
+  {
+    "id": 958,
+    "client_id": 13,
+    "account_type": "DEBIT",
+    "balance": 38.24
+  },
+  {
+    "id": 959,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 71.25
+  },
+  {
+    "id": 960,
+    "client_id": 8,
+    "account_type": "DEBIT",
+    "balance": 54.31
+  },
+  {
+    "id": 961,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 96.11
+  },
+  {
+    "id": 962,
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 1.67
+  },
+  {
+    "id": 963,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 28.68
+  },
+  {
+    "id": 964,
+    "client_id": 28,
+    "account_type": "DEBIT",
+    "balance": 34.31
+  },
+  {
+    "id": 965,
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 39.43
+  },
+  {
+    "id": 966,
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 43.5
+  },
+  {
+    "id": 967,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 29.94
+  },
+  {
+    "id": 968,
+    "client_id": 4,
+    "account_type": "DEBIT",
+    "balance": 82.45
+  },
+  {
+    "id": 969,
+    "client_id": 18,
+    "account_type": "DEBIT",
+    "balance": 81.31
+  },
+  {
+    "id": 970,
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 5.6
+  },
+  {
+    "id": 971,
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 24.52
+  },
+  {
+    "id": 972,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 91.57
+  },
+  {
+    "id": 973,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 19.67
+  },
+  {
+    "id": 974,
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 81.74
+  },
+  {
+    "id": 975,
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 98.17
+  },
+  {
+    "id": 976,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 72.22
+  },
+  {
+    "id": 977,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 35.58
+  },
+  {
+    "id": 978,
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 58.55
+  },
+  {
+    "id": 979,
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 48.01
+  },
+  {
+    "id": 980,
+    "client_id": 25,
+    "account_type": "DEBIT",
+    "balance": 74.81
+  },
+  {
+    "id": 981,
+    "client_id": 29,
+    "account_type": "DEBIT",
+    "balance": 10.7
+  },
+  {
+    "id": 982,
+    "client_id": 21,
+    "account_type": "DEBIT",
+    "balance": 1.7
+  },
+  {
+    "id": 983,
+    "client_id": 6,
+    "account_type": "DEBIT",
+    "balance": 53.4
+  },
+  {
+    "id": 984,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 92.42
+  },
+  {
+    "id": 985,
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 53.16
+  },
+  {
+    "id": 986,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 91.35
+  },
+  {
+    "id": 987,
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 58.58
+  },
+  {
+    "id": 988,
+    "client_id": 2,
+    "account_type": "DEBIT",
+    "balance": 34.65
+  },
+  {
+    "id": 989,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 17.59
+  },
+  {
+    "id": 990,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 23.48
+  },
+  {
+    "id": 991,
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 35.26
+  },
+  {
+    "id": 992,
+    "client_id": 5,
+    "account_type": "DEBIT",
+    "balance": 49.08
+  },
+  {
+    "id": 993,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 66.56
+  },
+  {
+    "id": 994,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 45.85
+  },
+  {
+    "id": 995,
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 80.38
+  },
+  {
+    "id": 996,
+    "client_id": 20,
+    "account_type": "DEBIT",
+    "balance": 47.35
+  },
+  {
+    "id": 997,
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 95.5
+  },
+  {
+    "id": 998,
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 6.07
+  },
+  {
+    "id": 999,
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 68.93
+  },
+  {
+    "id": 1000,
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 96.95
+  }
+]
