@@ -10,6 +10,9 @@ spring:
     enabled: true
     default-schema: t1_demo
     change-log: db/changelog/db.changelog-master.xml
+  jpa:
+    hibernate:
+      ddl-auto: update
 
 logging:
   level:
